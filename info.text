@@ -1,0 +1,8 @@
+git init 
+git status
+git add .
+git add day1.java
+
+git branch -M main - //to create a branch
+git remote add origin https://github.com/Minskoleopc/zorba12b.git // connect local to remote
+git push -u origin main - to push
